@@ -1,0 +1,8 @@
+fastapi
+langchain
+langchain-google-genai
+langserve
+pydantic
+uvicorn
+python-dotenv 
+protobuf==3.20.*  
