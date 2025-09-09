@@ -11,7 +11,7 @@ from src.base.llm import get_gemini_llm
 from src.rag.main import build_rag_chain, InputQA, OutputQA
 
 llm = get_gemini_llm()
-agent_docs = "D:/RAG_langchain/data_src/AI_Agent"
+agent_docs = "./RAG_langchain/data_src/AI_Agent"
 
 
 # ----------Chains-----------
